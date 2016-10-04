@@ -12,7 +12,7 @@
     </header>
     <body>
         <div class="main"> 
-          
+          <img src="images/image1.jpg"
         </div>
     </body>
 </html>
