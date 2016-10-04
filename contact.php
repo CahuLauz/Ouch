@@ -7,7 +7,7 @@
     </head>
     <header>
         <div class="title">
-          <img src="images/header1.jpeg" alt="title">
+          <img src="images/header1.png" alt="title">
         </div>
     </header>
     <body>
