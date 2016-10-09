@@ -6,6 +6,13 @@ body {
     text-align: center;
 }
 
+.reseaux{
+    width: 10%;
+    height: 14%;
+    position: absolute;
+    
+}
+
 .onglets{
     margin-top: 2%;
     margin-left: 15%;  
@@ -69,5 +76,4 @@ body {
 
 .strip {
     text-align: center;
-    height:500pt;
-    overflow:auto;
+    

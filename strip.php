@@ -9,9 +9,7 @@
         <div class="title">
           <a href="index.php"><img src="images/header1.png" alt="title"></a>
         </div>
-        <div class="fb">
-            <img src="images/fb.png" alt="fb">
-        </div>
+       <a href="https://www.facebook.com/ouchlethargic/?fref=ts"><img class="reseaux" src="images/fb.png" alt="fb"></a>
         <div class="onglets">
             <a href="strip.php"> <img class="onglet1" src="images/ongletStrip.png" alt="onglet1"></a>
             <a href="othertrip.php"><img class="onglet2" src="images/ongletOthertrip.png" alt="onglet2"></a>
