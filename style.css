@@ -49,6 +49,7 @@ body {
 }
 
 .main{
+
     margin-top: 6%;
     text-align: center;
     margin-left: 20%;
@@ -70,4 +71,3 @@ body {
     text-align: center;
     height:500pt;
     overflow:auto;
-}
