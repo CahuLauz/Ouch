@@ -19,8 +19,8 @@
         </div>
     </header>
     <body  style="background-image: url(images/divStrip.png);">
-        <div class="main" overflow-x:scroll;>
-           
+        <div id="strip">
+           <img src="images/image1.jpg" alt="test">
         </div>
     </body>
 </html>
