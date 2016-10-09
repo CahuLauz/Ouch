@@ -9,6 +9,9 @@
         <div class="title">
           <a href="index.php"><img src="images/header1.png" alt="title"></a>
         </div>
+        <div class="fb">
+            <img src="images/fb.png" alt="fb">
+        </div>
         <div class="onglets">
             <a href="strip.php"> <img class="onglet1" src="images/ongletStrip.png" alt="onglet1"></a>
             <a href="othertrip.php"><img class="onglet2" src="images/ongletOthertrip.png" alt="onglet2"></a>
@@ -18,9 +21,11 @@
             <a href="infos.php"><img class="onglet6" src="images/ongletContact.png" alt="onglet6"></a>
         </div>
     </header>
-    <body  style="background-image: url(images/divStrip.png);">
-        <div id="strip">
-           <img src="images/image1.jpg" alt="test">
+    <body>
+        <div class="background">
+            <div class="strip">
+                    <img src="images/image1.jpg" alt="test">
+            </div>
         </div>
     </body>
 </html>

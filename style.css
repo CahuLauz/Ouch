@@ -1,5 +1,5 @@
 body {
-  background: url("") no-repeat center fixed; 
+  background: url("images/background.png") no-repeat center fixed; 
 }
 
 .title{
@@ -58,9 +58,16 @@ body {
     color: black;
 }
 
-#strip{
-       height:350pt;
-       overflow:auto;
-       margin-left: 20%;
-       margin-top: 6%;
+.background {
+    background-color: rgba(50, 50, 50, 0.5);
+    height: 100%;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.strip {
+    text-align: center;
+    height:500pt;
+    overflow:auto;
 }
