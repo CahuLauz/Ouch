@@ -1,24 +1,64 @@
 body {
-  margin:0;
-  padding:0;
-  background: url("images/background.jpg") no-repeat center fixed; 
-  -webkit-background-size: cover;
-  background-size: cover;
+  background: url("") no-repeat center fixed; 
 }
 
 .title{
-    margin-top: 3%;
-    text-align: center;
-}
-
-.main{
     text-align: center;
 }
 
 .onglets{
-    margin-left: 7%;
+    margin-top: 2%;
+    margin-left: 15%;  
 }
 
 .onglet1{
-    margin-left: 2%;
+    width: 6%;
+    height: 2%;
+    margin-left: 4%;
+}
+
+.onglet2{
+    width: 9%;
+    height: 2%;
+    margin-left: 5%;
+}
+
+.onglet3{
+    width: 7%;
+    height: 2%;
+    margin-left: 5%;
+   
+}
+
+.onglet4{
+    width: 8%;
+    height: 2%;
+    margin-left: 5%;
+}
+
+.onglet5{
+    width: 6%;
+    height: 2%;
+    margin-left: 5%;
+}
+
+.onglet6{
+    width: 9%;
+    height: 2%;
+    margin-left: 5%;
+}
+
+.main{
+    margin-top: 6%;
+    text-align: center;
+    margin-left: 20%;
+    border: 1px, white;
+    font-size: x-large;
+    width:62%;
+    color: black;
+}
+
+.strip{
+    width: 100%;
+    height: 100%;
 }
